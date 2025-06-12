@@ -58,7 +58,7 @@ Esses filtros tornam a análise mais dinâmica e adaptada a diferentes contextos
 
 ## 🖼️ Visual do Dashboard
 
-![Preview do Dashboard](imagens/preview-dashboard.png)
+![Preview do Dashboard](imagens/preview_dashboard.png)
 
 ---
 
