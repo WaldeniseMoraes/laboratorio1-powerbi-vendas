@@ -32,7 +32,7 @@ O dashboard responde às seguintes perguntas principais:
    ➤ Cálculo da média percentual de desconto por subcategoria.
 
 5. **Quais países tiveram maior média de valor de venda?**  
-   ➤ Representação no **mapa interativo** com destaque para países com maior ticket médio.
+   ➤ Representação no **mapa interativo** com destaque para países com maior média de vendas.
 
 ---
 
